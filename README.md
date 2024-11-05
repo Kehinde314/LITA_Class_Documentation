@@ -32,3 +32,15 @@ CREATE TABLE Sales (
     Transaction_Category VARCHAR(20)
 );
 ```
+
+Here is another expression used to insert data into the table
+
+```SQL
+BULK INSERT Sales
+FROM 'C:\Users\Admin\OneDrive\??\so the maximum number of rolls.csv'
+WITH (
+    FIELDTERMINATOR = ',', 
+    ROWTERMINATOR = '\n',
+    FIRSTROW = 2 -- Skip header row if present
+);
+```
