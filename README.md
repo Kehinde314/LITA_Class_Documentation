@@ -2,6 +2,16 @@
 
 ### Project Title: Capstone Project
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
 ### Project Overview 
 This Data Analysis project aims to generate insights found in Excel, SQL, and PowerBi which includes a sales overview, top-performing products, and regional breakdowns.
 
