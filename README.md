@@ -44,3 +44,13 @@ WITH (
     FIRSTROW = 2 -- Skip header row if present
 );
 ```
+
+### Data Visualization
+---
+![so the maximum number of rolls csv](https://github.com/user-attachments/assets/4dbb8574-a144-47c0-8dac-b46abe20db0e)
+
+![Microsoft SQL Server Management Studio](https://github.com/user-attachments/assets/db97f575-4ea4-4b68-afdc-65c70a2ae0ac)
+
+![Power BI Desktop](https://github.com/user-attachments/assets/08b092b9-a608-467c-bd8a-070cec08e191)
+
+
